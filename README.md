@@ -3,8 +3,8 @@
 ## About Me
 I am a first year **Computer Science and Engineering (CSE)** student with a passion for **programming**, **web development**, **data science**, and **artificial intelligence**. I enjoy exploring new technologies and learning concepts that help me grow both as a developer and an individual.
 
-- 🔭 I’m currently working on web development projects using **HTML**, **CSS**, **JavaScript**, and **Python**.
-- 🌱 I’m learning **data science**, **machine learning**, and **software engineering** concepts.
+- 🔭 I’m currently working on web development projects using HTML, CSS, JavaScript, and Python.
+- 🌱 I’m learning data science, machine learning, and software engineering concepts.
 - 🤝 I’m open to collaboration and always ready to explore new challenges and opportunities.
 
 ## Tools & Technologies
